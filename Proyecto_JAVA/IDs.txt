@@ -1,0 +1,3 @@
+Jefe: 98765432B
+Dependiente: 12345678A
+Cocinero: 03155839D

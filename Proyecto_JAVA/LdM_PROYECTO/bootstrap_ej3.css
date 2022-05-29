@@ -1,0 +1,7 @@
+.fondo{
+    background-image: url(./images/parallaxFood.jpg);
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+    min-height: 500px;
+}
